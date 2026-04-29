@@ -9,8 +9,8 @@ const CreateTask = () => {
 
   const [title, setTitle] = useState<string>("");
   const [description, setDescription] = useState<string>("");
-  const [status, setStatus] = useState<TaskStatus>("todo");
-  const [priority, setPriority] = useState<TaskPriority>("medium");
+  const [status, setStatus] = useState<TaskStatus>("Todo");
+  const [priority, setPriority] = useState<TaskPriority>("Medium");
   const [dueDate, setDueDate] = useState<string>("");
   const [error, setError] = useState<string>("");
 
