@@ -99,7 +99,7 @@ The **ProtectedRoute** component ensures only authenticated users can access cer
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-manager.git
+git clone [https://github.com/YOUR_USERNAME/task-manager.git](https://github.com/sepudjowargono/task-manager.git)
 cd task-manager
 ```
 
